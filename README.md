@@ -1,5 +1,8 @@
 # Suggested setup when using AAP CLI
 
+
+[Table of Contents - Useful Red Hat Links](https://github.com/pslucas0212/UsefulRedHatLinks)
+
 Example .vimrc file to make vi or vim "yaml ready"
 ```
 set autoindent
